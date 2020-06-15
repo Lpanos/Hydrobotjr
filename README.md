@@ -9,6 +9,9 @@ Hydro Bot Jr. is a discord bot specializing in server economics with other added
 - For windows: 
   ```bash
   npm install --global --production windows-build-tools
+  
+  npm install
+  ```
 ## Configuration
 - Get a token string for your bot from by registering your bot here: [https://discordapp.com/developers](https://discordapp.com/developers)
   
